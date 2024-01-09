@@ -1,0 +1,348 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Ignacio Buenaventura",
+      "surnames": "Souto Jalón",
+      "title": "Blockchain & Full Stack Developments (Web2, Web3, Digital Developments, Smart Contracts, Dapps, Traceability Applications, Fintech.",
+      "description": "Blockchain and Full Stack Developer with expertise in Web2, Web3, Smart Contracts, and Fintech. Proven track record in designing intuitive user experiences, collaborating in cross-functional teams, and driving product growth. MIT Certified in Fintech Innovation.\n\n Key Highlights:\n- MIT Certificate in Fintech Innovation, forefront at Blockchain Innovation.\n- 42 Madrid Alumni.\n- Developer Smart Contracts and Decentralized Applications (Dapps) on Ethereum Virtual Machines, Hyperledger. \n- Led web and app tech design efforts resulting in improved user experiences and increased user engagement. \n- Strong product ownership skills, ensuring seamless collaboration between cross-functional teams and adherence to Scrum/Agile methodologies. \n- Proficient in UI design, striking the perfect balance between aesthetics and functionality.\n \nTechnical Proficiencies:\n- Languages and Frameworks: Solidity, HTML5, CSS3, JavaScript, TypeScript, Python, Angular, React, Bash, Shell, C\n- Tools and Technologies: Hardhat, Truffle, Foundry, Moralis, Infura, Alchemy, Pinata, ENS names\n- Real-Time Databases and Cloud Computing: Firebase, IBM Cloud, Amazon AWS, Microsoft Azure, Google Cloud, Digital Ocenan.\n- Familiarity with AI, GPT-4 for SaaS solutions\n- Proficient in Continuous Integration / Continuous Delivery (CI/CD-GIT) with Version Controls systems.\n\n Marketing Skills:\n- Data-driven mindset, employing metrics and KPIs to steer growth strategies and maximize performance.\n- Creative thinker, adept at generating innovative ideas and conducting A/B testing to optimize web, app, and platforms.\n- Analytical data, extracting valuable insights from user feedback and data to inform decision-making\n- Collaborative approach, facilitating effective communication and information exchange with product, marketing, and C-level teams\n- Proven ability to drive website and social media traffic, employing omni-channel marketing tactics and leveraging the AARRR Sales Metrics Diagram (Acquisition – Activation – Retention – Referral - Revenue)\n- E-commerce proficiency, utilizing Google Analytics, Magento, Oscommerce, Prestashop, WordPress, SEO, SEM, and SMO for impactful campaigns\n- Skilled in community management across various social media platforms.\n\n Additional Skills:\n- Mastery of various software and operating systems, including Unix, OS X, Windows.\n- Exceptional written and spoken English skills with a native level of fluency and negotiation capabilities\n- Spanish as a mother tongue.\n- Out-of-the-box thinking and intellectual horsepower, consistently driving innovation and problem-solving",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/0b2df4a6-5050-4c40-8d50-c62dd344c009_linkedin-photo-28028.linkedin-photo-28028",
+        "alt": "23/10/31/0b2df4a6-5050-4c40-8d50-c62dd344c009_linkedin-photo-28028.linkedin-photo-28028"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ignacio-b-souto-jal%C3%B3n-dipass-io/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/trasgoverde"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Blocknitive",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/d549615c-d5f8-43c6-8c25-8b07fc9a9d6f_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "23/10/31/d549615c-d5f8-43c6-8c25-8b07fc9a9d6f_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": "Blockchain Consultant",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "- Dapps: Distributed Applications & Developments\n- Tokenomics-Cryptoeconomics\n- Smart Contracts using Solidity as Programming Language\n- Hyperledger Fabric Solutions.\n- Docker, Kubernetes.\n- Cryptocurrencies-NFT´s over the Ethereum Blockchain and Binance Smart Chain"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DIPASSIO",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/eb9626cf-70a3-4d5a-a4d7-85c3201e6560_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "23/10/31/eb9626cf-70a3-4d5a-a4d7-85c3201e6560_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": " Full Stack Dev - Consultor Blockchain - Desarrollador Solidity",
+            "startDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo Web 3.0, DAPPS sobre Ethereum con frameworks como Angular, React. - Proyectos como: switchdex.ag (DEX agregados), ghostbyjohnmcafee.com (ecosistema descentralizado focalizado en la privacidad), spacelens.com (comercio electrónico descentralizado). \n- Hyperledger: Fabric, Sawtooth-Grid, Andy, principalmente Soluciones de Trazabilidad. \n- Tokenización de activos, bienes raíces, arte. \n- Desarrollos NFT para creadores. \n- Polygon, Binance Smart Chain, Chainlink o cualquier otra opción EVM incluyendo soluciones L2 \n- Desarrollos OpenEthereum. \n- Dapps: Aplicaciones distribuidas. \n- Criptoeconomía y Trading. \n- Contratos inteligentes utilizando Solidity como lenguaje de programación. \n- Algunas herramientas utilizadas en mis proyectos: RemixIDE, Truffle, Foundry, Hardhat, Infura, Alchemy, Moralis, Slither y Mythril."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Muxu Worldwide S.L."
+        },
+        "roles": [
+          {
+            "name": "Co-founder",
+            "startDate": "2015-09-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "- Ecommerce platform development systems with Magento implementation.\n- Cross- Channel campains (offline & online ) and retail solutions\n- Reporting SEM, SEO and SMO campaigns.\n- Control and optimitation on results.\n- CRM and management systems.\n- Developing systems and strategies for launching new products and services.\n- Marketplace development project."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plantamania Store S.L.U."
+        },
+        "roles": [
+          {
+            "name": "CEO & CTO",
+            "startDate": "2009-02-01",
+            "finishDate": "2015-01-31",
+            "challenges": [
+              {
+                "description": "- General Management and Marketing Retail and Wholesale bussiness.\n- Developing Bussiness and strategies plannings.\n- import and export activities all around Europe and South America.\n- Launching new shop concept and brand on new horticultural products.\n- Team Organization and management on Omnichannels Marketing.\n- Branding and Community Management ( SEO, SEM, CRM´s).\n- Ecommerce (Magento, OsCommerce, WordPress).\n- Advertising and Public Relations, organizing trade fairs and events for the brand."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Short Track S.L.U."
+        },
+        "roles": [
+          {
+            "name": "General Management",
+            "startDate": "2004-08-01",
+            "finishDate": "2008-12-31",
+            "challenges": [
+              {
+                "description": "- Based in Spain company, with wholesale business of frozen seafood\n- Import and Export activities and with contracts with countries such Chile, Argentina, Japan, Holland, India."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Informa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/31bf8c4a-bec2-4646-b061-a765e2162fa7_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "23/10/31/31bf8c4a-bec2-4646-b061-a765e2162fa7_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": "Reporting Management",
+            "startDate": "2001-10-01",
+            "finishDate": "2002-09-30",
+            "challenges": [
+              {
+                "description": "Company part of CESCE Corp. Specialized on financial and comercial information , with activities such data treatment, and publishing financial and commercial reports on different companies sectors, credits and risks."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MAPFRE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/31/61173553-680e-4305-9168-011819869a31_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "23/10/31/61173553-680e-4305-9168-011819869a31_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": "Sales Representant",
+            "startDate": "2000-12-01",
+            "finishDate": "2001-09-30",
+            "challenges": [
+              {
+                "description": "Sales department, direct sales of insurances and financial products."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bodegas Marques de Tomares (Unión de Viticultores de Riojanos S.L.)"
+        },
+        "roles": [
+          {
+            "name": "Administrative and Accounting",
+            "startDate": "2000-06-01",
+            "finishDate": "2000-12-31",
+            "challenges": [
+              {
+                "description": "Direct administrative and accounting services for the company."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Heroku",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/ignacio-b-souto-jal%C3%B3n-dipass-io/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/trasgoverde",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "ign.souto@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Project Manager & Delivery Manager",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Looking for a job in a tech company working with web3 (Blockchain-Smart Contracts) but also I can develop also in Web2 projects.\nSince 2009 I began my journey in development with Ecommerce systems first and after in 2016, I participated in a course at MIT (Massachusset Institute  of Technology) about Fintech and the future of commerce, in this course is where I learned about the DLT tech and the new paradigm of the Internet of Money, and since then, this Web3 area is one of my priorities. I also like very much programming and learning new stacks, so I thing I could adapt very well in an IT company.\n"
+  }
+}
