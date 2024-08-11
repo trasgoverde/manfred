@@ -11,8 +11,8 @@
       "title": "Blockchain & Full Stack Developments (Web2, Web3, Digital Developments, Smart Contracts, Dapps, Traceability Applications, Fintech, RegTech & PropTech )",
       "description": "Blockchain and Full Stack Developer with expertise in Web2, Web3, Smart Contracts, and Fintech. Proven track record in designing intuitive user experiences, collaborating in cross-functional teams, and driving product growth. MIT Certified in Fintech Innovation.\n\nKey Highlights:\n- MIT Certificate in Fintech Innovation, forefront at Blockchain Innovation.\n- 42 Madrid Alumni.\n- Developer Smart Contracts and Decentralized Applications (Dapps) on Ethereum Virtual Machines, Hyperledger.\n- Led web and app tech design efforts resulting in improved user experiences and increased user engagement.\n- Strong product ownership skills, ensuring seamless collaboration between cross-functional teams and adherence to Scrum/Agile methodologies.\n- Proficient in UI design, striking the perfect balance between aesthetics and functionality.\n\nTechnical Proficiencies:\n- Languages and Frameworks: Solidity, HTML5, CSS3, JavaScript, TypeScript, Python, Angular, React, Bash, Shell, C\n- Tools and Technologies: Hardhat, Truffle, Foundry, Moralis, Infura, Alchemy, Pinata, ENS names\n- Real-Time Databases and Cloud Computing: Firebase, IBM Cloud, Amazon AWS, Microsoft Azure, Google Cloud, Digital Ocean.\n- LLM´s AI Solutions.\n- SaaS, PaaS Solutions.\n- Vectorial, Relational and Non-relational Databases\n- Continuous Integration / Continuous Delivery (CI/CD-GIT) with Version Controls systems.\n\nMarketing Skills:\n- Data-driven mindset, employing metrics and KPIs to steer growth strategies and maximize performance.\n- Creative thinker, adept at generating innovative ideas and conducting A/B testing to optimize web, app, and platforms.\n- Analytical data, extracting valuable insights from user feedback and data to inform decision-making\n- Collaborative approach, facilitating effective communication and information exchange with product, marketing, and C-level teams\n- Proven ability to drive website and social media traffic, employing omni-channel marketing tactics and leveraging the AARRR Sales Metrics Diagram (Acquisition – Activation – Retention – Referral - Revenue)\n- E-commerce proficiency, utilizing Google Analytics, Magento, Oscommerce, Prestashop, WordPress, SEO, SEM, and SMO for impactful campaigns\n- Skilled in community management across various social media platforms.\n\nAdditional Skills:\n- Mastery in Unix, OS X, Windows.\n- Exceptional written and spoken English skills with a native level of fluency and negotiation capabilities\n- Spanish as a mother tongue.\n- Out-of-the-box thinking and intellectual horsepower, consistently driving innovation and problem-solving",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/04a112af-2168-418c-8322-91d10e07120a_linkedin-photo-28028.linkedin-photo-28028",
-        "alt": "24/08/11/04a112af-2168-418c-8322-91d10e07120a_linkedin-photo-28028.linkedin-photo-28028"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/6c5e7497-3bf0-42b8-b3f3-ae543d268a18_linkedin-photo-28028.linkedin-photo-28028",
+        "alt": "24/08/11/6c5e7497-3bf0-42b8-b3f3-ae543d268a18_linkedin-photo-28028.linkedin-photo-28028"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
@@ -32,12 +32,188 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "AKAIO by Kyra Group",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/f7410304-d70d-4ab5-8e03-ac9fb4205ff8_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "24/08/11/f7410304-d70d-4ab5-8e03-ac9fb4205ff8_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": "Chief of Development",
+            "startDate": "2024-02-01",
+            "finishDate": "2024-06-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de Sistemas de Inteligencia Artificial: Especialización en RAG, Agentic, prompting, Fine-Tuning, y latencia de inferencia.\nComputación en la Nube con AWS: Implementación y gestión de soluciones en la nube utilizando Amazon Web Services.\nDevOps: Automatización y optimización de procesos de desarrollo y operaciones.\nBases de Datos Vectoriales: Experiencia con Neo4j para el manejo de grandes volúmenes de datos.\nDesarrollo Web: Utilización de frameworks como D3.js y Next.js para la creación de aplicaciones web dinámicas e interactivas.\nAPI´s = > Fast-API Python: Desarrollo de aplicaciones y scripts en Python para diversas aplicaciones, desde análisis de datos hasta automatización de tareas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Blocknitive",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/73670d18-cff3-4fc2-acbb-cb8879a27214_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "24/08/11/73670d18-cff3-4fc2-acbb-cb8879a27214_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": "Blockchain Consultant",
+            "startDate": "2021-07-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "- Dapps: Distributed Applications & Developments\n- Tokenomics-Cryptoeconomics\n- Smart Contracts using Solidity as Programming Language\n- Hyperledger Fabric Solutions.\n- Docker, Kubernetes.\n- Cryptocurrencies-NFT´s over the Ethereum Blockchain and Binance Smart Chain"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DIPASSIO",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/6588ee9a-5e9c-44f6-be9f-ccafe7f80f3b_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "24/08/11/6588ee9a-5e9c-44f6-be9f-ccafe7f80f3b_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": " Full Stack Dev - Consultor Blockchain - Desarrollador Solidity",
+            "startDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "- Desarrollo Web 3.0, DAPPS sobre Ethereum con frameworks como Angular, React. - Proyectos como: switchdex.ag (DEX agregados), ghostbyjohnmcafee.com (ecosistema descentralizado focalizado en la privacidad), spacelens.com (comercio electrónico descentralizado).\n- Hyperledger: Fabric, Sawtooth-Grid, Andy, principalmente Soluciones de Trazabilidad.\n- Tokenización de activos, bienes raíces, arte.\n- Desarrollos NFT para creadores.\n- Polygon, Binance Smart Chain, Chainlink o cualquier otra opción EVM incluyendo soluciones L2\n- Desarrollos OpenEthereum.\n- Dapps: Aplicaciones distribuidas.\n- Criptoeconomía y Trading.\n- Contratos inteligentes utilizando Solidity como lenguaje de programación.\n- Algunas herramientas utilizadas en mis proyectos: RemixIDE, Truffle, Foundry, Hardhat, Infura, Alchemy, Moralis, Slither y Mythril."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Muxu Worldwide S.L."
+        },
+        "roles": [
+          {
+            "name": "Co-founder",
+            "startDate": "2015-09-01",
+            "finishDate": "2017-01-31",
+            "challenges": [
+              {
+                "description": "- Ecommerce platform development systems with Magento implementation.\n- Cross- Channel campains (offline & online ) and retail solutions\n- Reporting SEM, SEO and SMO campaigns.\n- Control and optimitation on results.\n- CRM and management systems.\n- Developing systems and strategies for launching new products and services.\n- Marketplace development project."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plantamania Store S.L.U."
+        },
+        "roles": [
+          {
+            "name": "CEO & CTO",
+            "startDate": "2009-02-01",
+            "finishDate": "2015-01-31",
+            "challenges": [
+              {
+                "description": "- General Management and Marketing Retail and Wholesale bussiness.\n- Developing Bussiness and strategies plannings.\n- import and export activities all around Europe and South America.\n- Launching new shop concept and brand on new horticultural products.\n- Team Organization and management on Omnichannels Marketing.\n- Branding and Community Management ( SEO, SEM, CRM´s).\n- Ecommerce (Magento, OsCommerce, WordPress).\n- Advertising and Public Relations, organizing trade fairs and events for the brand."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Short Track S.L.U."
+        },
+        "roles": [
+          {
+            "name": "General Management",
+            "startDate": "2004-08-01",
+            "finishDate": "2008-12-31",
+            "challenges": [
+              {
+                "description": "- Based in Spain company, with wholesale business of frozen seafood\n- Import and Export activities and with contracts with countries such Chile, Argentina, Japan, Holland, India."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Informa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/cf0e94d6-80e2-42c0-bf52-35b078c3622e_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "24/08/11/cf0e94d6-80e2-42c0-bf52-35b078c3622e_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": "Reporting Management",
+            "startDate": "2001-10-01",
+            "finishDate": "2002-09-30",
+            "challenges": [
+              {
+                "description": "Company part of CESCE Corp. Specialized on financial and comercial information , with activities such data treatment, and publishing financial and commercial reports on different companies sectors, credits and risks."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "MAPFRE",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/272753b2-f90f-4e7f-84af-411befe371fc_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "24/08/11/272753b2-f90f-4e7f-84af-411befe371fc_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "roles": [
+          {
+            "name": "Sales Representant",
+            "startDate": "2000-12-01",
+            "finishDate": "2001-09-30",
+            "challenges": [
+              {
+                "description": "Sales department, direct sales of insurances and financial products."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bodegas Marques de Tomares (Unión de Viticultores de Riojanos S.L.)"
+        },
+        "roles": [
+          {
+            "name": "Administrative and Accounting",
+            "startDate": "2000-06-01",
+            "finishDate": "2000-12-31",
+            "challenges": [
+              {
+                "description": "Direct administrative and accounting services for the company."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Native or bilingual proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",
@@ -135,6 +311,36 @@
           "name": "Vue",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Fintech Certificate Course: Future Commerce 2016, Finance and Technology",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "Massachusetts Institute of Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/84f53eb0-1d9b-4f3c-85e7-a6f6285ab8bf_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "24/08/11/84f53eb0-1d9b-4f3c-85e7-a6f6285ab8bf_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "finishDate": "2016-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Piscine 42, Language C and Development",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "42",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/11/2ba56bef-178b-46ab-b00b-7e6c25d08bb7_linkedin-photo-28028.linkedin-photo-28028",
+            "alt": "24/08/11/2ba56bef-178b-46ab-b00b-7e6c25d08bb7_linkedin-photo-28028.linkedin-photo-28028"
+          }
+        },
+        "finishDate": "2023-07-31"
       }
     ]
   },
